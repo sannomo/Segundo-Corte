@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+'este  programa  nos permite   saber si una persona  es  menor , mayor o adultomayor se gun su  edad'
+4
+1
+29
+' por  favor digite su  edad'
+5
+1
+4
+edad
+7
+0
+1
+8
+edad <18
+7
+0
+1
+23
+edad >= 18 and edad <60
+7
+0
+1
+10
+edad >= 60
+13
+4
+1
+62
+'usted marco la edad de ', edad,' años usted es ADULTO MAYOR '
+13
+13
+4
+1
+62
+'usted marco la edad de ', edad,' años usted es mayor de Edad'
+13
+13
+4
+1
+63
+'usted marco la edad de ', edad,' años usted es menor de  edad'
+13
+1
